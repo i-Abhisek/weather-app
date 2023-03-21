@@ -40,3 +40,15 @@ main {
     text-align: left;
     color:black;
 }
+footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+      text-align: center;
+      background-color: black;
+      color: white;
+      padding: 25px;
+      position: sticky;
+    }
+    .center{
+        text-align: center;
+        position: sticky;
+    }
